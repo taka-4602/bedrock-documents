@@ -1,0 +1,2 @@
+# bedrock-documents
+DiscordメンバーブーストBot ベッドロック
